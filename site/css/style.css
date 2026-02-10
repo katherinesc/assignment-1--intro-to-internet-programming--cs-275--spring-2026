@@ -3,5 +3,8 @@ body {
 }
 
 h1{
-  font-size: 2rem;
+  font-family:"Quintessential", sans-serif;
+  font-size: 4rem;
+  color:red;
+
 }
