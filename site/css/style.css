@@ -14,24 +14,28 @@ h1{
   padding-top: 20px;
   padding-left: 10px;
 }
-h2{
+
+li,h2{
   padding-top: 20px;
   text-align: center;
-  font-family:"New Amsterdam", sans-serif;
-  font-size:25px;
+  font-family:"Roboto Slab", sans-serif;
+  font-size:20px;
+  color:#171940;
 }
 
 h3{
   padding-top:30px;
-  font-family:"New Amsterdam", sans-serif;
+  font-family:"Quintessential", sans-serif;
   font-size:40px;
   padding-left:15px;
+  color:#0F1359;
 }
 
 h4{
   padding-left:20px;
-  font-family:"New Amsterdam", sans-serif;
+  font-family:"Quintessential", sans-serif;
   font-size:40px;
+  color:#014023;
 }
 
 h5{
@@ -39,4 +43,5 @@ h5{
   padding-top:10px;
   font-size:25px;
   padding-bottom:30px;
+  font-family: "Roboto Slab", sans-serif;
 }
