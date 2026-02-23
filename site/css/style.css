@@ -26,7 +26,7 @@ li,h2{
   text-align: center;
   font-family:"Roboto Slab", sans-serif;
   font-size:20px;
-  color:#171940;
+  color:whitesmoke;
 }
 
 h3{
@@ -35,6 +35,7 @@ h3{
   font-size:40px;
   padding-left:15px;
   color:#0F1359;
+  background-color: gray;
 }
 
 h4{
@@ -42,6 +43,7 @@ h4{
   font-family:"Quintessential", sans-serif;
   font-size:40px;
   color:#014023;
+  background-color: gray;
 }
 
 h5{
@@ -50,4 +52,6 @@ h5{
   font-size:25px;
   padding-bottom:30px;
   font-family: "Roboto Slab", sans-serif;
+  height: 50vh;
+  background-color: gray;
 }
