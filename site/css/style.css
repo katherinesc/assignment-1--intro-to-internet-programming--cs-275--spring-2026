@@ -44,7 +44,6 @@ h3{
   font-size:40px;
   padding-left:15px;
   color:#0F1359;
-  background-color: gray;
 }
 
 h4{
@@ -52,7 +51,6 @@ h4{
   font-family:"Quintessential", sans-serif;
   font-size:40px;
   color:#014023;
-  background-color: gray;
 }
 
 h5{
@@ -62,5 +60,4 @@ h5{
   padding-bottom:30px;
   font-family: "Roboto Slab", sans-serif;
   height: 50vh;
-  background-color: gray;
 }
