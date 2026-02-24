@@ -1,6 +1,5 @@
-body {
-  background-image: linear-gradient(rgba(0,0,0,0.3)), url("../img/dieter-rams-5.jpg");
-  background-attachment: fixed;
+.index-file {
+  background-image: linear-gradient(rgba(0,0,0,0.3)), url("../img/dieter-rams-1.jpg");
   height: 100vh;
   background-size: cover;
   background-position: center;
